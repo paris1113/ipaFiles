@@ -11,7 +11,7 @@
                     <key>kind</key>
                     <string>software-package</string>
                     <key>url</key>
-                    <string>ipa包URL（必填）</string>
+                    <string>https://raw.githubusercontent.com/feng3843/itemservicesDemo/master/XPZC.ipa</string>
                 </dict>
                 <dict>
                     <key>kind</key>
