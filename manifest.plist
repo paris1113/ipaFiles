@@ -33,15 +33,15 @@
             <key>metadata</key>
             <dict>
                 <key>bundle-identifier</key>
-                <string>com.ibm.cio.be.salesAnchorApp</string>
+                <string>com.company.appName</string>
                 <key>bundle-version</key>
                 <string>1.0.0</string>
                 <key>kind</key>
                 <string>software</string>
                 <key>subtitle</key>
-                <string>Sales Anchor</string>
+                <string>appName</string>
                 <key>title</key>
-                <string>Sales Anchor</string>
+                <string>appName</string>
             </dict>
         </dict>
     </array>
